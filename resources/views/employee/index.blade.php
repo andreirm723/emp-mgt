@@ -18,6 +18,9 @@
         </div>
       </div><!-- /.container-fluid -->
     </section>
+    <div class="card-footer">
+                  <button style="margin-left:230px;" type="submit" class="btn btn-info">Add new employee</button>
+                </div>
     <div class="card card-primary"  style="margin-left:250px; margin-right:250px;">
               <div  style="Background-color:lightblue; color:black" class="card-header " >
                 <h3  class="card-title">Add new employee</h3>
