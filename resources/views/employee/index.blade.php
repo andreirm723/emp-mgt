@@ -21,8 +21,8 @@
     <div class="card-footer">
                   <button style="margin-left:230px;" type="submit" class="btn btn-danger">Add new employee</button>
                 </div>
-    <div class="card card-primary"  style="margin-left:250px; margin-right:250px;">
-              <div  style="Background-color:pink; color:black" class="card-header " >
+    <div class="card card-primary"  style=" Background-color:pink; margin-left:250px; margin-right:250px;">
+              <div  style="Background-color:purple; color:white" class="card-header " >
                 <h3  class="card-title">Add new employee</h3>
               </div>
               <!-- /.card-header -->
