@@ -12,7 +12,9 @@
         </div><!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
-
+    <div class="card-footer">
+                  <button style="margin-left:230px;" type="submit" class="btn btn-info">EDITIONS</button>
+                </div>
     <!-- Main content -->
     <div class="content">
         <div class="container-fluid">
