@@ -66,8 +66,13 @@
                                         <td>{{ $st->dept}}</td>
                                         <td>{{ $st->div}}</td>
                                        
+<<<<<<< HEAD
                                         <td><a class="btn btn-success" href="{{ url('employee/'.$st->id.'/edit')}}">Edit</a></td>
                                         <td><a class="btn btn-success" href="{{ url('employee/'.$st->id.'/delete')}}">Delete</a></td>
+=======
+                                        <td><a class="btn btn-info" href="{{ url('employee/'.$st->id.'/edit')}}">Edit</a></td>
+                                        <td><a class="btn btn-danger" href="{{ url('employee/'.$st->id.'/delete')}}">Delete</a></td>
+>>>>>>> d60704e7c727ec4cc4452d3522166e2b0c317a83
                                     </tr>
                                 @endforeach
                                 </tbody>
